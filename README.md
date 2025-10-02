@@ -1,6 +1,13 @@
 # 🚀 Wikipedia Search App
 
 A simple and sleek web application that allows you to instantly search for and view Wikipedia articles. Perfect for quick research or just satisfying your curiosity!
+---
+
+## 🔗 Live Demo
+
+Check out the live application here: [Wikipedia Search App](https://wikipediasapp13.ccbp.tech/)
+ 
+---
 
 ## ✨ Features
 
@@ -33,12 +40,19 @@ A simple and sleek web application that allows you to instantly search for and v
 2.  Open the `index.html` file in your browser.
 3.  Type a keyword into the search box and press Enter to start exploring!
 
----
-
-## 🔗 Live Demo
-
-Check out the live application here: [Wikipedia Search App](https://wikipediasapp13.ccbp.tech/)
 
 ---
 
 ## 📂 Project Structure
+-The project structure for the Wikipedia Search App is as follows:
+```
+└── WikipediaSearchapp
+  -└──WikiAssets
+       -├── WikiScreenshot1.png
+       -├── WikiScreenshot2.png
+       -└── WikiScreenshot3.png
+    -├── index.html
+    -├── style.css
+    -└── script.js
+
+```
