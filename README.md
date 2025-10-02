@@ -22,8 +22,9 @@ A simple and sleek web application that allows you to instantly search for and v
 ---
 ## 📸 Screenshot
 
-![Screenshot of the Wikipedia Search App](https://d2clawv67efefq.cloudfront.net/ccbp-dynamic-webapps/wiki-logo-img.png)
-
+![Screenshot of the Wikipedia Search App](./WikiAssets/WikiScreenshot1.png)
+![Screenshot of the Wikipedia Search App](./WikiAssets/WikiScreenshot2.png)
+![Screenshot of the Wikipedia Search App](./WikiAssets/WikiScreenshot3.png)
 ---
 
 ## 💻 Getting Started
