@@ -5,7 +5,7 @@ A simple and sleek web application that allows you to instantly search for and v
 
 ## 🔗 Live Demo
 
-Check out the live application here: [Wikipedia Search App](https://wikipediasapp13.ccbp.tech/)
+Check out the live application here: [![Live Demo](https://img.shields.io/badge/Live%20Demo-Click%20Here!-blue)](https://wikipediasapp13.ccbp.tech/)
  
 ---
 
